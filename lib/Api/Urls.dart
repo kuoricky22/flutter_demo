@@ -12,5 +12,7 @@ class Url {
   static String get coachUrl => '$baseUrl/JasperCoach/query';
 
 // 登入
+//   帳號：0928075503
+//   密碼: 123456789
   static String get loginUrl => 'http://sp7.allec.com.tw/apisk/login2';
 }
